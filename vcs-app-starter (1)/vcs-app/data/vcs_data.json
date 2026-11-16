@@ -1,0 +1,2722 @@
+{
+ "meta": {
+  "title": "VCS Plan 2027",
+  "period_start": "2026-12-01",
+  "period_end": "2027-09-09",
+  "work_week": "Sunday-Thursday",
+  "total_visits": 134,
+  "total_employees": 49,
+  "total_locations": 50,
+  "quota_per_employee": {
+   "ENGINEERING": 4,
+   "Quality Control": 2,
+   "Production": 4,
+   "Supply Chain": 2,
+   "IT": 2
+  },
+  "required_by_dept": {
+   "ENGINEERING": 56,
+   "Quality Control": 40,
+   "Production": 20,
+   "Supply Chain": 10,
+   "IT": 8
+  },
+  "checks": "All validation checks OK (0 duplicates, 0 out-of-range, 0 restriction violations)"
+ },
+ "people": [
+  {
+   "name": "Yasmine KHALED",
+   "email": "yasmine.khaled@servier.com",
+   "manager": "mohamed.marasy@servier.com",
+   "dept": "Quality Control",
+   "visits": [
+    {
+     "date": "2026-12-06",
+     "location": "Secondary packaging line 3",
+     "status": "Pending"
+    },
+    {
+     "date": "2027-04-20",
+     "location": "Maintenance HVAC Roof",
+     "status": "Pending"
+    }
+   ],
+   "required": 2
+  },
+  {
+   "name": "Abdel Rahman HAMAD",
+   "email": "abdelrahman.hamad@servier.com",
+   "manager": "muhammad.alhussein@servier.com",
+   "dept": "ENGINEERING",
+   "visits": [
+    {
+     "date": "2026-12-08",
+     "location": "IMA Coating",
+     "status": "Pending"
+    },
+    {
+     "date": "2027-02-17",
+     "location": "Quality Archive site 2",
+     "status": "Pending"
+    },
+    {
+     "date": "2027-04-29",
+     "location": "Firefighting station 2",
+     "status": "Pending"
+    },
+    {
+     "date": "2027-07-08",
+     "location": "Shipping area",
+     "status": "Pending"
+    }
+   ],
+   "required": 4
+  },
+  {
+   "name": "Fady KHALAF",
+   "email": "fady.khalaf.part@servier.com",
+   "manager": "muhammad.alhussein@servier.com",
+   "dept": "ENGINEERING",
+   "visits": [
+    {
+     "date": "2026-12-10",
+     "location": "QC Lab 2",
+     "status": "Pending"
+    },
+    {
+     "date": "2027-02-15",
+     "location": "Firefighting station 2",
+     "status": "Pending"
+    },
+    {
+     "date": "2027-04-27",
+     "location": "Secondary packaging line 3",
+     "status": "Pending"
+    },
+    {
+     "date": "2027-07-04",
+     "location": "Bohle Blending",
+     "status": "Pending"
+    }
+   ],
+   "required": 4
+  },
+  {
+   "name": "Khaled ALLAM",
+   "email": "khaled.allam@servier.com",
+   "manager": "muhammad.alhussein@servier.com",
+   "dept": "ENGINEERING",
+   "visits": [
+    {
+     "date": "2026-12-13",
+     "location": "GEA 2",
+     "status": "Pending"
+    },
+    {
+     "date": "2027-02-21",
+     "location": "Shipping area",
+     "status": "Pending"
+    },
+    {
+     "date": "2027-05-11",
+     "location": "Manesty Coating",
+     "status": "Pending"
+    },
+    {
+     "date": "2027-07-22",
+     "location": "GEA 1 suite Granulation, Fluid Bed drier & Miller",
+     "status": "Pending"
+    }
+   ],
+   "required": 4
+  },
+  {
+   "name": "Amr HAMDY",
+   "email": "amr.hamdy@servier.com",
+   "manager": "muhammad.alhussein@servier.com",
+   "dept": "ENGINEERING",
+   "visits": [
+    {
+     "date": "2026-12-14",
+     "location": "Weighing process in warehouse",
+     "status": "Pending"
+    },
+    {
+     "date": "2027-02-25",
+     "location": "Fette 2",
+     "status": "Pending"
+    },
+    {
+     "date": "2027-05-03",
+     "location": "GEA 1",
+     "status": "Pending"
+    },
+    {
+     "date": "2027-07-15",
+     "location": "Main store",
+     "status": "Pending"
+    }
+   ],
+   "required": 4
+  },
+  {
+   "name": "Kirollos NAGUIB",
+   "email": "kirollos.naguib@servier.com",
+   "manager": "mohamed.marasy@servier.com",
+   "dept": "Quality Control",
+   "visits": [
+    {
+     "date": "2026-12-16",
+     "location": "Bohle Blending",
+     "status": "Pending"
+    },
+    {
+     "date": "2027-04-25",
+     "location": "Shipping area",
+     "status": "Pending"
+    }
+   ],
+   "required": 2
+  },
+  {
+   "name": "Karim FAYEZ",
+   "email": "karim.fayez@servier.com",
+   "manager": "mohamed.zahran@servier.com",
+   "dept": "Production",
+   "visits": [
+    {
+     "date": "2026-12-17",
+     "location": "Main store",
+     "status": "Pending"
+    },
+    {
+     "date": "2027-03-04",
+     "location": "IMA Coating",
+     "status": "Pending"
+    },
+    {
+     "date": "2027-05-09",
+     "location": "Firefighting Pumps Station -Palmiers",
+     "status": "Pending"
+    },
+    {
+     "date": "2027-07-21",
+     "location": "Spare parts WH Engineering",
+     "status": "Pending"
+    }
+   ],
+   "required": 4
+  },
+  {
+   "name": "Hania ABDELFATTAH",
+   "email": "hania.abdelfattah.part@servier.com",
+   "manager": "mohamed.marasy@servier.com",
+   "dept": "Quality Control",
+   "visits": [
+    {
+     "date": "2026-12-20",
+     "location": "Utilities HVAC Roof",
+     "status": "Pending"
+    },
+    {
+     "date": "2027-05-02",
+     "location": "Sampling",
+     "status": "Pending"
+    }
+   ],
+   "required": 2
+  },
+  {
+   "name": "Daniel KALALIAN",
+   "email": "daniel.kalalian@servier.com",
+   "manager": "mohamed.zahran@servier.com",
+   "dept": "IT",
+   "visits": [
+    {
+     "date": "2026-12-22",
+     "location": "waste water treatment plant",
+     "status": "Pending"
+    },
+    {
+     "date": "2027-05-16",
+     "location": "Quality control lab-Acacias",
+     "status": "Pending"
+    }
+   ],
+   "required": 2
+  },
+  {
+   "name": "Mohammed BASYOUNI",
+   "email": "mohamed.basyouni@servier.com",
+   "manager": "muhammad.alhussein@servier.com",
+   "dept": "ENGINEERING",
+   "visits": [
+    {
+     "date": "2026-12-24",
+     "location": "Micro Lab site 2",
+     "status": "Pending"
+    },
+    {
+     "date": "2027-03-01",
+     "location": "Main store",
+     "status": "Pending"
+    },
+    {
+     "date": "2027-05-20",
+     "location": "GEA 1 suite Granulation, Fluid Bed drier & Miller",
+     "status": "Pending"
+    },
+    {
+     "date": "2027-07-27",
+     "location": "GEA 1",
+     "status": "Pending"
+    }
+   ],
+   "required": 4
+  },
+  {
+   "name": "Fady GINDY",
+   "email": "fady.gindy@servier.com",
+   "manager": "hazem.shahin@servier.com",
+   "dept": "Supply Chain",
+   "visits": [
+    {
+     "date": "2026-12-27",
+     "location": "Hazwaste area site 2",
+     "status": "Pending"
+    },
+    {
+     "date": "2027-06-03",
+     "location": "Boiler house",
+     "status": "Pending"
+    }
+   ],
+   "required": 2
+  },
+  {
+   "name": "Ahmed HASSAN",
+   "email": "ahmed.hassan@servier.com",
+   "manager": "mohamed.marasy@servier.com",
+   "dept": "Quality Control",
+   "visits": [
+    {
+     "date": "2026-12-29",
+     "location": "Solar Energy station",
+     "status": "Pending"
+    },
+    {
+     "date": "2027-05-13",
+     "location": "Utilities HVAC roof 1",
+     "status": "Pending"
+    }
+   ],
+   "required": 2
+  },
+  {
+   "name": "Amr SAMIR",
+   "email": "amr.samir@servier.com",
+   "manager": "muhammad.alhussein@servier.com",
+   "dept": "ENGINEERING",
+   "visits": [
+    {
+     "date": "2026-12-31",
+     "location": "Weighing",
+     "status": "Pending"
+    },
+    {
+     "date": "2027-03-11",
+     "location": "Washing & Dispensing of Alcohol",
+     "status": "Pending"
+    },
+    {
+     "date": "2027-05-23",
+     "location": "Secondary packaging line 5",
+     "status": "Pending"
+    },
+    {
+     "date": "2027-08-09",
+     "location": "Firefighting station 2",
+     "status": "Pending"
+    }
+   ],
+   "required": 4
+  },
+  {
+   "name": "Mohamed ZAHRAN",
+   "email": "mohamed.zahran@servier.com",
+   "manager": "mohamed.zahran@servier.com",
+   "dept": "Production",
+   "visits": [
+    {
+     "date": "2027-01-03",
+     "location": "Water treatment plant",
+     "status": "Pending"
+    },
+    {
+     "date": "2027-03-22",
+     "location": "Utilities HVAC roof 1",
+     "status": "Pending"
+    },
+    {
+     "date": "2027-05-27",
+     "location": "Quarantine WH",
+     "status": "Pending"
+    },
+    {
+     "date": "2027-08-01",
+     "location": "Chemical Store",
+     "status": "Pending"
+    }
+   ],
+   "required": 4
+  },
+  {
+   "name": "Ali SAYED",
+   "email": "ali.sayed@servier.com",
+   "manager": "muhammad.alhussein@servier.com",
+   "dept": "ENGINEERING",
+   "visits": [
+    {
+     "date": "2027-01-04",
+     "location": "Flammable store site 2",
+     "status": "Pending"
+    },
+    {
+     "date": "2027-03-28",
+     "location": "Packaging washing room",
+     "status": "Pending"
+    },
+    {
+     "date": "2027-06-22",
+     "location": "Micro Lab site 2",
+     "status": "Pending"
+    }
+   ],
+   "required": 3
+  },
+  {
+   "name": "Ahmed HAMDY",
+   "email": "ahmed.hamdy@servier.com",
+   "manager": "muhammad.alhussein@servier.com",
+   "dept": "ENGINEERING",
+   "visits": [
+    {
+     "date": "2027-01-06",
+     "location": "Firefighting Pumps Station-Acacias",
+     "status": "Pending"
+    },
+    {
+     "date": "2027-03-16",
+     "location": "Manesty Coating",
+     "status": "Pending"
+    },
+    {
+     "date": "2027-05-26",
+     "location": "Workers locker room site 2",
+     "status": "Pending"
+    },
+    {
+     "date": "2027-08-05",
+     "location": "Hazwaste area site 2",
+     "status": "Pending"
+    }
+   ],
+   "required": 4
+  },
+  {
+   "name": "Ahmed HAMDEE",
+   "email": "ahmed.hamdee@servier.com",
+   "manager": "mohamed.marasy@servier.com",
+   "dept": "Quality Control",
+   "visits": [
+    {
+     "date": "2027-01-07",
+     "location": "Boiler room",
+     "status": "Pending"
+    },
+    {
+     "date": "2027-05-18",
+     "location": "Spare parts WH Engineering",
+     "status": "Pending"
+    }
+   ],
+   "required": 2
+  },
+  {
+   "name": "Hany GERGIS",
+   "email": "hany.gergis.part@servier.com",
+   "manager": "mohamed.zahran@servier.com",
+   "dept": "IT",
+   "visits": [
+    {
+     "date": "2027-01-10",
+     "location": "Solution Preparation",
+     "status": "Pending"
+    },
+    {
+     "date": "2027-06-16",
+     "location": "Quality Archive site 2",
+     "status": "Pending"
+    }
+   ],
+   "required": 2
+  },
+  {
+   "name": "Esraa Elsayed",
+   "email": "esraa.elsayed@servier.com",
+   "manager": "mohamed.marasy@servier.com",
+   "dept": "Quality Control",
+   "visits": [
+    {
+     "date": "2027-01-12",
+     "location": "Compressors & electrical distribution room",
+     "status": "Pending"
+    },
+    {
+     "date": "2027-05-24",
+     "location": "Solar Energy station",
+     "status": "Pending"
+    }
+   ],
+   "required": 2
+  },
+  {
+   "name": "Mohamed RAMADAN",
+   "email": "mohamed.ramadan@servier.com",
+   "manager": "muhammad.alhussein@servier.com",
+   "dept": "ENGINEERING",
+   "visits": [
+    {
+     "date": "2027-01-14",
+     "location": "Sampling",
+     "status": "Pending"
+    },
+    {
+     "date": "2027-03-24",
+     "location": "Weighing process in warehouse",
+     "status": "Pending"
+    },
+    {
+     "date": "2027-06-08",
+     "location": "Secondary packaging line 4",
+     "status": "Pending"
+    },
+    {
+     "date": "2027-08-19",
+     "location": "MG2-Capsule Filling",
+     "status": "Pending"
+    }
+   ],
+   "required": 4
+  },
+  {
+   "name": "Mirette BOTROS",
+   "email": "mirette.botros@servier.com",
+   "manager": "mohamed.marasy@servier.com",
+   "dept": "Quality Control",
+   "visits": [
+    {
+     "date": "2027-01-17",
+     "location": "GEA 1 suite Granulation, Fluid Bed drier & Miller",
+     "status": "Pending"
+    },
+    {
+     "date": "2027-06-01",
+     "location": "Utilities HVAC Roof",
+     "status": "Pending"
+    }
+   ],
+   "required": 2
+  },
+  {
+   "name": "Mohamed EBRAHIM",
+   "email": "mohamed.maddy@servier.com",
+   "manager": "muhammad.alhussein@servier.com",
+   "dept": "ENGINEERING",
+   "visits": [
+    {
+     "date": "2027-01-19",
+     "location": "Secondary packaging line 4",
+     "status": "Pending"
+    },
+    {
+     "date": "2027-04-11",
+     "location": "Micro Lab site 2",
+     "status": "Pending"
+    },
+    {
+     "date": "2027-07-19",
+     "location": "Technical Area 1",
+     "status": "Pending"
+    }
+   ],
+   "required": 3
+  },
+  {
+   "name": "Phelopateer ATTEYA",
+   "email": "phelopateer.atteya@servier.com",
+   "manager": "mohamed.zahran@servier.com",
+   "dept": "Production",
+   "visits": [
+    {
+     "date": "2027-01-21",
+     "location": "Maintenance HVAC Roof",
+     "status": "Pending"
+    },
+    {
+     "date": "2027-03-30",
+     "location": "Primary packaging line 3",
+     "status": "Pending"
+    },
+    {
+     "date": "2027-06-10",
+     "location": "Quality Lab site 2",
+     "status": "Pending"
+    },
+    {
+     "date": "2027-08-12",
+     "location": "Quality control lab-Acacias",
+     "status": "Pending"
+    }
+   ],
+   "required": 4
+  },
+  {
+   "name": "Clara AZIZ",
+   "email": "clara.aziz.part@servier.com",
+   "manager": "mohamed.marasy@servier.com",
+   "dept": "Quality Control",
+   "visits": [
+    {
+     "date": "2027-01-24",
+     "location": "Acacia Hazwaste Area",
+     "status": "Pending"
+    },
+    {
+     "date": "2027-06-14",
+     "location": "IMA Coating",
+     "status": "Pending"
+    }
+   ],
+   "required": 2
+  },
+  {
+   "name": "Samer HANNA",
+   "email": "samer.hanna@servier.com",
+   "manager": "muhammad.alhussein@servier.com",
+   "dept": "ENGINEERING",
+   "visits": [
+    {
+     "date": "2027-01-25",
+     "location": "Quality Lab site 2",
+     "status": "Pending"
+    },
+    {
+     "date": "2027-04-06",
+     "location": "Chemical Store",
+     "status": "Pending"
+    },
+    {
+     "date": "2027-06-13",
+     "location": "Firefighting Pumps Station-Acacias",
+     "status": "Pending"
+    },
+    {
+     "date": "2027-09-01",
+     "location": "Secondary packaging line 1",
+     "status": "Pending"
+    }
+   ],
+   "required": 4
+  },
+  {
+   "name": "Muhammad ALHUSSEIN",
+   "email": "muhammad.alhussein@servier.com",
+   "manager": "muhammad.alhussein@servier.com",
+   "dept": "ENGINEERING",
+   "visits": [
+    {
+     "date": "2027-01-27",
+     "location": "MG2-Capsule Filling",
+     "status": "Pending"
+    },
+    {
+     "date": "2027-05-06",
+     "location": "Quality control lab–Les Palmiers",
+     "status": "Pending"
+    },
+    {
+     "date": "2027-08-11",
+     "location": "Secondary packaging line 2",
+     "status": "Pending"
+    }
+   ],
+   "required": 3
+  },
+  {
+   "name": "Yassin MOHAMED",
+   "email": "yassin.mohamed@servier.com",
+   "manager": "muhammad.alhussein@servier.com",
+   "dept": "Quality Control",
+   "visits": [
+    {
+     "date": "2027-01-28",
+     "location": "Fette 3",
+     "status": "Pending"
+    },
+    {
+     "date": "2027-06-06",
+     "location": "waste water treatment plant",
+     "status": "Pending"
+    }
+   ],
+   "required": 2
+  },
+  {
+   "name": "Stephane WILLIAM",
+   "email": "stephane.william@servier.com",
+   "manager": "mohamed.zahran@servier.com",
+   "dept": "Production",
+   "visits": [
+    {
+     "date": "2027-01-31",
+     "location": "Spare parts WH Engineering",
+     "status": "Pending"
+    },
+    {
+     "date": "2027-04-12",
+     "location": "MG2-Capsule Filling",
+     "status": "Pending"
+    },
+    {
+     "date": "2027-06-24",
+     "location": "Flammable store site 2",
+     "status": "Pending"
+    },
+    {
+     "date": "2027-08-29",
+     "location": "Utilities HVAC roof 1",
+     "status": "Pending"
+    }
+   ],
+   "required": 4
+  },
+  {
+   "name": "Sara ELSAYED",
+   "email": "sara.elsayed@servier.com",
+   "manager": "mohamed.marasy@servier.com",
+   "dept": "Quality Control",
+   "visits": [
+    {
+     "date": "2027-02-02",
+     "location": "Primary packaging line 3",
+     "status": "Pending"
+    },
+    {
+     "date": "2027-06-20",
+     "location": "Secondary packaging line 3",
+     "status": "Pending"
+    }
+   ],
+   "required": 2
+  },
+  {
+   "name": "Medhat LAWENDY",
+   "email": "medhat.lawendy@servier.com",
+   "manager": "muhammad.alhussein@servier.com",
+   "dept": "ENGINEERING",
+   "visits": [
+    {
+     "date": "2027-02-04",
+     "location": "Firefighting Pumps Station -Palmiers",
+     "status": "Pending"
+    },
+    {
+     "date": "2027-04-15",
+     "location": "QC Lab 2",
+     "status": "Pending"
+    },
+    {
+     "date": "2027-06-17",
+     "location": "Weighing process in warehouse",
+     "status": "Pending"
+    },
+    {
+     "date": "2027-08-24",
+     "location": "Quarantine WH",
+     "status": "Pending"
+    }
+   ],
+   "required": 4
+  },
+  {
+   "name": "Ahmed ZAKY",
+   "email": "ahmed.zaky@servier.com",
+   "manager": "mohamed.marasy@servier.com",
+   "dept": "IT",
+   "visits": [
+    {
+     "date": "2027-02-07",
+     "location": "Chemical Store",
+     "status": "Pending"
+    },
+    {
+     "date": "2027-06-29",
+     "location": "Sampling",
+     "status": "Pending"
+    }
+   ],
+   "required": 2
+  },
+  {
+   "name": "Abdalla NAGY",
+   "email": "abdalla.mohamed@servier.com",
+   "manager": "mohamed.marasy@servier.com",
+   "dept": "Quality Control",
+   "visits": [
+    {
+     "date": "2027-02-09",
+     "location": "Primary packaging line 4",
+     "status": "Pending"
+    },
+    {
+     "date": "2027-06-27",
+     "location": "GEA 2",
+     "status": "Pending"
+    }
+   ],
+   "required": 2
+  },
+  {
+   "name": "Moamen FOUAD",
+   "email": "moamen.fouad@servier.com",
+   "manager": "muhammad.alhussein@servier.com",
+   "dept": "ENGINEERING",
+   "visits": [
+    {
+     "date": "2027-02-11",
+     "location": "Secondary packaging line 1",
+     "status": "Pending"
+    },
+    {
+     "date": "2027-04-22",
+     "location": "Water treatment plant",
+     "status": "Pending"
+    },
+    {
+     "date": "2027-07-01",
+     "location": "Acacia Hazwaste Area",
+     "status": "Pending"
+    },
+    {
+     "date": "2027-09-07",
+     "location": "Secondary packaging line 5",
+     "status": "Pending"
+    }
+   ],
+   "required": 4
+  },
+  {
+   "name": "Bassem YOUSSEF",
+   "email": "bassem.youssef@servier.com",
+   "manager": "mohamed.marasy@servier.com",
+   "dept": "Quality Control",
+   "visits": [
+    {
+     "date": "2027-02-14",
+     "location": "Secondary packaging line 5",
+     "status": "Pending"
+    },
+    {
+     "date": "2027-07-07",
+     "location": "Washing & Dispensing of Alcohol",
+     "status": "Pending"
+    }
+   ],
+   "required": 2
+  },
+  {
+   "name": "Mina MEDHAT WAHBA",
+   "email": "mina.medhat-ezzat@servier.com",
+   "manager": "mohamed.zahran@servier.com",
+   "dept": "Production",
+   "visits": [
+    {
+     "date": "2027-02-18",
+     "location": "Hazwaste area site 2",
+     "status": "Pending"
+    },
+    {
+     "date": "2027-05-05",
+     "location": "GEA 2",
+     "status": "Pending"
+    },
+    {
+     "date": "2027-07-05",
+     "location": "Water treatment plant",
+     "status": "Pending"
+    },
+    {
+     "date": "2027-09-05",
+     "location": "Fette 2",
+     "status": "Pending"
+    }
+   ],
+   "required": 4
+  },
+  {
+   "name": "Karen Hani",
+   "email": "karen.hani@servier.com",
+   "manager": "mohamed.marasy@servier.com",
+   "dept": "Quality Control",
+   "visits": [
+    {
+     "date": "2027-02-23",
+     "location": "Workers locker room site 2",
+     "status": "Pending"
+    },
+    {
+     "date": "2027-07-13",
+     "location": "Fette 3",
+     "status": "Pending"
+    }
+   ],
+   "required": 2
+  },
+  {
+   "name": "Hamdy ABDEL FATTAH",
+   "email": "hamdy.abdelfattah@servier.com",
+   "manager": "muhammad.alhussein@servier.com",
+   "dept": "ENGINEERING",
+   "visits": [
+    {
+     "date": "2027-02-28",
+     "location": "Secondary packaging line 2",
+     "status": "Pending"
+    },
+    {
+     "date": "2027-05-30",
+     "location": "Fette 2",
+     "status": "Pending"
+    },
+    {
+     "date": "2027-09-02",
+     "location": "Solution Preparation",
+     "status": "Pending"
+    }
+   ],
+   "required": 3
+  },
+  {
+   "name": "Mohamed MARASY",
+   "email": "mohamed.marasy@servier.com",
+   "manager": "mohamed.marasy@servier.com",
+   "dept": "Quality Control",
+   "visits": [
+    {
+     "date": "2027-03-03",
+     "location": "Bohle Blending",
+     "status": "Pending"
+    },
+    {
+     "date": "2027-07-18",
+     "location": "Compressors & electrical distribution room",
+     "status": "Pending"
+    }
+   ],
+   "required": 2
+  },
+  {
+   "name": "Alhassan GOHAR",
+   "email": "alhassan.gohar@servier.com",
+   "manager": "hazem.shahin@servier.com",
+   "dept": "Supply Chain",
+   "visits": [
+    {
+     "date": "2027-03-07",
+     "location": "Quality control lab-Acacias",
+     "status": "Pending"
+    },
+    {
+     "date": "2027-07-11",
+     "location": "Packaging washing room",
+     "status": "Pending"
+    }
+   ],
+   "required": 2
+  },
+  {
+   "name": "Mina",
+   "email": "mina.malak.part@servier.com",
+   "manager": "mohamed.marasy@servier.com",
+   "dept": "Quality Control",
+   "visits": [
+    {
+     "date": "2027-03-09",
+     "location": "Technical Area 1",
+     "status": "Pending"
+    },
+    {
+     "date": "2027-07-29",
+     "location": "Maintenance HVAC Roof",
+     "status": "Pending"
+    }
+   ],
+   "required": 2
+  },
+  {
+   "name": "Hazem SHAHIN",
+   "email": "hazem.shahin@servier.com",
+   "manager": "hazem.shahin@servier.com",
+   "dept": "Supply Chain",
+   "visits": [
+    {
+     "date": "2027-03-14",
+     "location": "Boiler house",
+     "status": "Pending"
+    },
+    {
+     "date": "2027-07-25",
+     "location": "Manesty Coating",
+     "status": "Pending"
+    }
+   ],
+   "required": 2
+  },
+  {
+   "name": "Aya AKL",
+   "email": "aya.akl@servier.com",
+   "manager": "mohamed.marasy@servier.com",
+   "dept": "Quality Control",
+   "visits": [
+    {
+     "date": "2027-03-18",
+     "location": "Acacia Hazwaste Area",
+     "status": "Pending"
+    },
+    {
+     "date": "2027-08-03",
+     "location": "Boiler room",
+     "status": "Pending"
+    }
+   ],
+   "required": 2
+  },
+  {
+   "name": "Jessy GEORGES",
+   "email": "jessy.georges@servier.com",
+   "manager": "mohamed.marasy@servier.com",
+   "dept": "Quality Control",
+   "visits": [
+    {
+     "date": "2027-03-21",
+     "location": "Utilities HVAC Roof",
+     "status": "Pending"
+    },
+    {
+     "date": "2027-08-08",
+     "location": "Firefighting Pumps Station -Palmiers",
+     "status": "Pending"
+    }
+   ],
+   "required": 2
+  },
+  {
+   "name": "Abanoub MASRY",
+   "email": "abanoub.masry@servier.com",
+   "manager": "hazem.shahin@servier.com",
+   "dept": "Supply Chain",
+   "visits": [
+    {
+     "date": "2027-03-25",
+     "location": "Compressors & electrical distribution room",
+     "status": "Pending"
+    },
+    {
+     "date": "2027-08-15",
+     "location": "Primary packaging line 4",
+     "status": "Pending"
+    }
+   ],
+   "required": 2
+  },
+  {
+   "name": "Mayar WAEL",
+   "email": "mayar.wael@servier.com",
+   "manager": "mohamed.marasy@servier.com",
+   "dept": "Quality Control",
+   "visits": [
+    {
+     "date": "2027-04-01",
+     "location": "Quarantine WH",
+     "status": "Pending"
+    },
+    {
+     "date": "2027-08-17",
+     "location": "Solar Energy station",
+     "status": "Pending"
+    }
+   ],
+   "required": 2
+  },
+  {
+   "name": "Sawsan ABO EL KASSEM",
+   "email": "sawsan.aboelkassem@servier.com",
+   "manager": "mohamed.marasy@servier.com",
+   "dept": "Quality Control",
+   "visits": [
+    {
+     "date": "2027-04-04",
+     "location": "Weighing",
+     "status": "Pending"
+    },
+    {
+     "date": "2027-08-26",
+     "location": "Primary packaging line 3",
+     "status": "Pending"
+    }
+   ],
+   "required": 2
+  },
+  {
+   "name": "Mirna FOUAD",
+   "email": "mirna.fouad@servier.com",
+   "manager": "hazem.shahin@servier.com",
+   "dept": "Supply Chain",
+   "visits": [
+    {
+     "date": "2027-04-08",
+     "location": "Firefighting Pumps Station-Acacias",
+     "status": "Pending"
+    },
+    {
+     "date": "2027-08-22",
+     "location": "Quality control lab–Les Palmiers",
+     "status": "Pending"
+    }
+   ],
+   "required": 2
+  },
+  {
+   "name": "Marianne CHENOUDA",
+   "email": "marianne.chenouda@servier.com",
+   "manager": "mohamed.marasy@servier.com",
+   "dept": "Quality Control",
+   "visits": [
+    {
+     "date": "2027-04-14",
+     "location": "Secondary packaging line 1",
+     "status": "Pending"
+    },
+    {
+     "date": "2027-08-30",
+     "location": "Fette 3",
+     "status": "Pending"
+    }
+   ],
+   "required": 2
+  },
+  {
+   "name": "Nader ARMANIOS",
+   "email": "nader.armanios@servier.com",
+   "manager": "mohamed.marasy@servier.com",
+   "dept": "IT",
+   "visits": [
+    {
+     "date": "2027-04-18",
+     "location": "Solution Preparation",
+     "status": "Pending"
+    },
+    {
+     "date": "2027-09-09",
+     "location": "Boiler house",
+     "status": "Pending"
+    }
+   ],
+   "required": 2
+  }
+ ],
+ "visits": [
+  {
+   "name": "Yasmine KHALED",
+   "email": "yasmine.khaled@servier.com",
+   "manager": "mohamed.marasy@servier.com",
+   "dept": "Quality Control",
+   "date": "2026-12-06",
+   "weekday": "Sun",
+   "location": "Secondary packaging line 3",
+   "status": "Pending"
+  },
+  {
+   "name": "Abdel Rahman HAMAD",
+   "email": "abdelrahman.hamad@servier.com",
+   "manager": "muhammad.alhussein@servier.com",
+   "dept": "ENGINEERING",
+   "date": "2026-12-08",
+   "weekday": "Tue",
+   "location": "IMA Coating",
+   "status": "Pending"
+  },
+  {
+   "name": "Fady KHALAF",
+   "email": "fady.khalaf.part@servier.com",
+   "manager": "muhammad.alhussein@servier.com",
+   "dept": "ENGINEERING",
+   "date": "2026-12-10",
+   "weekday": "Thu",
+   "location": "QC Lab 2",
+   "status": "Pending"
+  },
+  {
+   "name": "Khaled ALLAM",
+   "email": "khaled.allam@servier.com",
+   "manager": "muhammad.alhussein@servier.com",
+   "dept": "ENGINEERING",
+   "date": "2026-12-13",
+   "weekday": "Sun",
+   "location": "GEA 2",
+   "status": "Pending"
+  },
+  {
+   "name": "Amr HAMDY",
+   "email": "amr.hamdy@servier.com",
+   "manager": "muhammad.alhussein@servier.com",
+   "dept": "ENGINEERING",
+   "date": "2026-12-14",
+   "weekday": "Mon",
+   "location": "Weighing process in warehouse",
+   "status": "Pending"
+  },
+  {
+   "name": "Kirollos NAGUIB",
+   "email": "kirollos.naguib@servier.com",
+   "manager": "mohamed.marasy@servier.com",
+   "dept": "Quality Control",
+   "date": "2026-12-16",
+   "weekday": "Wed",
+   "location": "Bohle Blending",
+   "status": "Pending"
+  },
+  {
+   "name": "Karim FAYEZ",
+   "email": "karim.fayez@servier.com",
+   "manager": "mohamed.zahran@servier.com",
+   "dept": "Production",
+   "date": "2026-12-17",
+   "weekday": "Thu",
+   "location": "Main store",
+   "status": "Pending"
+  },
+  {
+   "name": "Hania ABDELFATTAH",
+   "email": "hania.abdelfattah.part@servier.com",
+   "manager": "mohamed.marasy@servier.com",
+   "dept": "Quality Control",
+   "date": "2026-12-20",
+   "weekday": "Sun",
+   "location": "Utilities HVAC Roof",
+   "status": "Pending"
+  },
+  {
+   "name": "Daniel KALALIAN",
+   "email": "daniel.kalalian@servier.com",
+   "manager": "mohamed.zahran@servier.com",
+   "dept": "IT",
+   "date": "2026-12-22",
+   "weekday": "Tue",
+   "location": "waste water treatment plant",
+   "status": "Pending"
+  },
+  {
+   "name": "Mohammed BASYOUNI",
+   "email": "mohamed.basyouni@servier.com",
+   "manager": "muhammad.alhussein@servier.com",
+   "dept": "ENGINEERING",
+   "date": "2026-12-24",
+   "weekday": "Thu",
+   "location": "Micro Lab site 2",
+   "status": "Pending"
+  },
+  {
+   "name": "Fady GINDY",
+   "email": "fady.gindy@servier.com",
+   "manager": "hazem.shahin@servier.com",
+   "dept": "Supply Chain",
+   "date": "2026-12-27",
+   "weekday": "Sun",
+   "location": "Hazwaste area site 2",
+   "status": "Pending"
+  },
+  {
+   "name": "Ahmed HASSAN",
+   "email": "ahmed.hassan@servier.com",
+   "manager": "mohamed.marasy@servier.com",
+   "dept": "Quality Control",
+   "date": "2026-12-29",
+   "weekday": "Tue",
+   "location": "Solar Energy station",
+   "status": "Pending"
+  },
+  {
+   "name": "Amr SAMIR",
+   "email": "amr.samir@servier.com",
+   "manager": "muhammad.alhussein@servier.com",
+   "dept": "ENGINEERING",
+   "date": "2026-12-31",
+   "weekday": "Thu",
+   "location": "Weighing",
+   "status": "Pending"
+  },
+  {
+   "name": "Mohamed ZAHRAN",
+   "email": "mohamed.zahran@servier.com",
+   "manager": "mohamed.zahran@servier.com",
+   "dept": "Production",
+   "date": "2027-01-03",
+   "weekday": "Sun",
+   "location": "Water treatment plant",
+   "status": "Pending"
+  },
+  {
+   "name": "Ali SAYED",
+   "email": "ali.sayed@servier.com",
+   "manager": "muhammad.alhussein@servier.com",
+   "dept": "ENGINEERING",
+   "date": "2027-01-04",
+   "weekday": "Mon",
+   "location": "Flammable store site 2",
+   "status": "Pending"
+  },
+  {
+   "name": "Ahmed HAMDY",
+   "email": "ahmed.hamdy@servier.com",
+   "manager": "muhammad.alhussein@servier.com",
+   "dept": "ENGINEERING",
+   "date": "2027-01-06",
+   "weekday": "Wed",
+   "location": "Firefighting Pumps Station-Acacias",
+   "status": "Pending"
+  },
+  {
+   "name": "Ahmed HAMDEE",
+   "email": "ahmed.hamdee@servier.com",
+   "manager": "mohamed.marasy@servier.com",
+   "dept": "Quality Control",
+   "date": "2027-01-07",
+   "weekday": "Thu",
+   "location": "Boiler room",
+   "status": "Pending"
+  },
+  {
+   "name": "Hany GERGIS",
+   "email": "hany.gergis.part@servier.com",
+   "manager": "mohamed.zahran@servier.com",
+   "dept": "IT",
+   "date": "2027-01-10",
+   "weekday": "Sun",
+   "location": "Solution Preparation",
+   "status": "Pending"
+  },
+  {
+   "name": "Esraa Elsayed",
+   "email": "esraa.elsayed@servier.com",
+   "manager": "mohamed.marasy@servier.com",
+   "dept": "Quality Control",
+   "date": "2027-01-12",
+   "weekday": "Tue",
+   "location": "Compressors & electrical distribution room",
+   "status": "Pending"
+  },
+  {
+   "name": "Mohamed RAMADAN",
+   "email": "mohamed.ramadan@servier.com",
+   "manager": "muhammad.alhussein@servier.com",
+   "dept": "ENGINEERING",
+   "date": "2027-01-14",
+   "weekday": "Thu",
+   "location": "Sampling",
+   "status": "Pending"
+  },
+  {
+   "name": "Mirette BOTROS",
+   "email": "mirette.botros@servier.com",
+   "manager": "mohamed.marasy@servier.com",
+   "dept": "Quality Control",
+   "date": "2027-01-17",
+   "weekday": "Sun",
+   "location": "GEA 1 suite Granulation, Fluid Bed drier & Miller",
+   "status": "Pending"
+  },
+  {
+   "name": "Mohamed EBRAHIM",
+   "email": "mohamed.maddy@servier.com",
+   "manager": "muhammad.alhussein@servier.com",
+   "dept": "ENGINEERING",
+   "date": "2027-01-19",
+   "weekday": "Tue",
+   "location": "Secondary packaging line 4",
+   "status": "Pending"
+  },
+  {
+   "name": "Phelopateer ATTEYA",
+   "email": "phelopateer.atteya@servier.com",
+   "manager": "mohamed.zahran@servier.com",
+   "dept": "Production",
+   "date": "2027-01-21",
+   "weekday": "Thu",
+   "location": "Maintenance HVAC Roof",
+   "status": "Pending"
+  },
+  {
+   "name": "Clara AZIZ",
+   "email": "clara.aziz.part@servier.com",
+   "manager": "mohamed.marasy@servier.com",
+   "dept": "Quality Control",
+   "date": "2027-01-24",
+   "weekday": "Sun",
+   "location": "Acacia Hazwaste Area",
+   "status": "Pending"
+  },
+  {
+   "name": "Samer HANNA",
+   "email": "samer.hanna@servier.com",
+   "manager": "muhammad.alhussein@servier.com",
+   "dept": "ENGINEERING",
+   "date": "2027-01-25",
+   "weekday": "Mon",
+   "location": "Quality Lab site 2",
+   "status": "Pending"
+  },
+  {
+   "name": "Muhammad ALHUSSEIN",
+   "email": "muhammad.alhussein@servier.com",
+   "manager": "muhammad.alhussein@servier.com",
+   "dept": "ENGINEERING",
+   "date": "2027-01-27",
+   "weekday": "Wed",
+   "location": "MG2-Capsule Filling",
+   "status": "Pending"
+  },
+  {
+   "name": "Yassin MOHAMED",
+   "email": "yassin.mohamed@servier.com",
+   "manager": "muhammad.alhussein@servier.com",
+   "dept": "Quality Control",
+   "date": "2027-01-28",
+   "weekday": "Thu",
+   "location": "Fette 3",
+   "status": "Pending"
+  },
+  {
+   "name": "Stephane WILLIAM",
+   "email": "stephane.william@servier.com",
+   "manager": "mohamed.zahran@servier.com",
+   "dept": "Production",
+   "date": "2027-01-31",
+   "weekday": "Sun",
+   "location": "Spare parts WH Engineering",
+   "status": "Pending"
+  },
+  {
+   "name": "Sara ELSAYED",
+   "email": "sara.elsayed@servier.com",
+   "manager": "mohamed.marasy@servier.com",
+   "dept": "Quality Control",
+   "date": "2027-02-02",
+   "weekday": "Tue",
+   "location": "Primary packaging line 3",
+   "status": "Pending"
+  },
+  {
+   "name": "Medhat LAWENDY",
+   "email": "medhat.lawendy@servier.com",
+   "manager": "muhammad.alhussein@servier.com",
+   "dept": "ENGINEERING",
+   "date": "2027-02-04",
+   "weekday": "Thu",
+   "location": "Firefighting Pumps Station -Palmiers",
+   "status": "Pending"
+  },
+  {
+   "name": "Ahmed ZAKY",
+   "email": "ahmed.zaky@servier.com",
+   "manager": "mohamed.marasy@servier.com",
+   "dept": "IT",
+   "date": "2027-02-07",
+   "weekday": "Sun",
+   "location": "Chemical Store",
+   "status": "Pending"
+  },
+  {
+   "name": "Abdalla NAGY",
+   "email": "abdalla.mohamed@servier.com",
+   "manager": "mohamed.marasy@servier.com",
+   "dept": "Quality Control",
+   "date": "2027-02-09",
+   "weekday": "Tue",
+   "location": "Primary packaging line 4",
+   "status": "Pending"
+  },
+  {
+   "name": "Moamen FOUAD",
+   "email": "moamen.fouad@servier.com",
+   "manager": "muhammad.alhussein@servier.com",
+   "dept": "ENGINEERING",
+   "date": "2027-02-11",
+   "weekday": "Thu",
+   "location": "Secondary packaging line 1",
+   "status": "Pending"
+  },
+  {
+   "name": "Bassem YOUSSEF",
+   "email": "bassem.youssef@servier.com",
+   "manager": "mohamed.marasy@servier.com",
+   "dept": "Quality Control",
+   "date": "2027-02-14",
+   "weekday": "Sun",
+   "location": "Secondary packaging line 5",
+   "status": "Pending"
+  },
+  {
+   "name": "Fady KHALAF",
+   "email": "fady.khalaf.part@servier.com",
+   "manager": "muhammad.alhussein@servier.com",
+   "dept": "ENGINEERING",
+   "date": "2027-02-15",
+   "weekday": "Mon",
+   "location": "Firefighting station 2",
+   "status": "Pending"
+  },
+  {
+   "name": "Abdel Rahman HAMAD",
+   "email": "abdelrahman.hamad@servier.com",
+   "manager": "muhammad.alhussein@servier.com",
+   "dept": "ENGINEERING",
+   "date": "2027-02-17",
+   "weekday": "Wed",
+   "location": "Quality Archive site 2",
+   "status": "Pending"
+  },
+  {
+   "name": "Mina MEDHAT WAHBA",
+   "email": "mina.medhat-ezzat@servier.com",
+   "manager": "mohamed.zahran@servier.com",
+   "dept": "Production",
+   "date": "2027-02-18",
+   "weekday": "Thu",
+   "location": "Hazwaste area site 2",
+   "status": "Pending"
+  },
+  {
+   "name": "Khaled ALLAM",
+   "email": "khaled.allam@servier.com",
+   "manager": "muhammad.alhussein@servier.com",
+   "dept": "ENGINEERING",
+   "date": "2027-02-21",
+   "weekday": "Sun",
+   "location": "Shipping area",
+   "status": "Pending"
+  },
+  {
+   "name": "Karen Hani",
+   "email": "karen.hani@servier.com",
+   "manager": "mohamed.marasy@servier.com",
+   "dept": "Quality Control",
+   "date": "2027-02-23",
+   "weekday": "Tue",
+   "location": "Workers locker room site 2",
+   "status": "Pending"
+  },
+  {
+   "name": "Amr HAMDY",
+   "email": "amr.hamdy@servier.com",
+   "manager": "muhammad.alhussein@servier.com",
+   "dept": "ENGINEERING",
+   "date": "2027-02-25",
+   "weekday": "Thu",
+   "location": "Fette 2",
+   "status": "Pending"
+  },
+  {
+   "name": "Hamdy ABDEL FATTAH",
+   "email": "hamdy.abdelfattah@servier.com",
+   "manager": "muhammad.alhussein@servier.com",
+   "dept": "ENGINEERING",
+   "date": "2027-02-28",
+   "weekday": "Sun",
+   "location": "Secondary packaging line 2",
+   "status": "Pending"
+  },
+  {
+   "name": "Mohammed BASYOUNI",
+   "email": "mohamed.basyouni@servier.com",
+   "manager": "muhammad.alhussein@servier.com",
+   "dept": "ENGINEERING",
+   "date": "2027-03-01",
+   "weekday": "Mon",
+   "location": "Main store",
+   "status": "Pending"
+  },
+  {
+   "name": "Mohamed MARASY",
+   "email": "mohamed.marasy@servier.com",
+   "manager": "mohamed.marasy@servier.com",
+   "dept": "Quality Control",
+   "date": "2027-03-03",
+   "weekday": "Wed",
+   "location": "Bohle Blending",
+   "status": "Pending"
+  },
+  {
+   "name": "Karim FAYEZ",
+   "email": "karim.fayez@servier.com",
+   "manager": "mohamed.zahran@servier.com",
+   "dept": "Production",
+   "date": "2027-03-04",
+   "weekday": "Thu",
+   "location": "IMA Coating",
+   "status": "Pending"
+  },
+  {
+   "name": "Alhassan GOHAR",
+   "email": "alhassan.gohar@servier.com",
+   "manager": "hazem.shahin@servier.com",
+   "dept": "Supply Chain",
+   "date": "2027-03-07",
+   "weekday": "Sun",
+   "location": "Quality control lab-Acacias",
+   "status": "Pending"
+  },
+  {
+   "name": "Mina",
+   "email": "mina.malak.part@servier.com",
+   "manager": "mohamed.marasy@servier.com",
+   "dept": "Quality Control",
+   "date": "2027-03-09",
+   "weekday": "Tue",
+   "location": "Technical Area 1",
+   "status": "Pending"
+  },
+  {
+   "name": "Amr SAMIR",
+   "email": "amr.samir@servier.com",
+   "manager": "muhammad.alhussein@servier.com",
+   "dept": "ENGINEERING",
+   "date": "2027-03-11",
+   "weekday": "Thu",
+   "location": "Washing & Dispensing of Alcohol",
+   "status": "Pending"
+  },
+  {
+   "name": "Hazem SHAHIN",
+   "email": "hazem.shahin@servier.com",
+   "manager": "hazem.shahin@servier.com",
+   "dept": "Supply Chain",
+   "date": "2027-03-14",
+   "weekday": "Sun",
+   "location": "Boiler house",
+   "status": "Pending"
+  },
+  {
+   "name": "Ahmed HAMDY",
+   "email": "ahmed.hamdy@servier.com",
+   "manager": "muhammad.alhussein@servier.com",
+   "dept": "ENGINEERING",
+   "date": "2027-03-16",
+   "weekday": "Tue",
+   "location": "Manesty Coating",
+   "status": "Pending"
+  },
+  {
+   "name": "Aya AKL",
+   "email": "aya.akl@servier.com",
+   "manager": "mohamed.marasy@servier.com",
+   "dept": "Quality Control",
+   "date": "2027-03-18",
+   "weekday": "Thu",
+   "location": "Acacia Hazwaste Area",
+   "status": "Pending"
+  },
+  {
+   "name": "Jessy GEORGES",
+   "email": "jessy.georges@servier.com",
+   "manager": "mohamed.marasy@servier.com",
+   "dept": "Quality Control",
+   "date": "2027-03-21",
+   "weekday": "Sun",
+   "location": "Utilities HVAC Roof",
+   "status": "Pending"
+  },
+  {
+   "name": "Mohamed ZAHRAN",
+   "email": "mohamed.zahran@servier.com",
+   "manager": "mohamed.zahran@servier.com",
+   "dept": "Production",
+   "date": "2027-03-22",
+   "weekday": "Mon",
+   "location": "Utilities HVAC roof 1",
+   "status": "Pending"
+  },
+  {
+   "name": "Mohamed RAMADAN",
+   "email": "mohamed.ramadan@servier.com",
+   "manager": "muhammad.alhussein@servier.com",
+   "dept": "ENGINEERING",
+   "date": "2027-03-24",
+   "weekday": "Wed",
+   "location": "Weighing process in warehouse",
+   "status": "Pending"
+  },
+  {
+   "name": "Abanoub MASRY",
+   "email": "abanoub.masry@servier.com",
+   "manager": "hazem.shahin@servier.com",
+   "dept": "Supply Chain",
+   "date": "2027-03-25",
+   "weekday": "Thu",
+   "location": "Compressors & electrical distribution room",
+   "status": "Pending"
+  },
+  {
+   "name": "Ali SAYED",
+   "email": "ali.sayed@servier.com",
+   "manager": "muhammad.alhussein@servier.com",
+   "dept": "ENGINEERING",
+   "date": "2027-03-28",
+   "weekday": "Sun",
+   "location": "Packaging washing room",
+   "status": "Pending"
+  },
+  {
+   "name": "Phelopateer ATTEYA",
+   "email": "phelopateer.atteya@servier.com",
+   "manager": "mohamed.zahran@servier.com",
+   "dept": "Production",
+   "date": "2027-03-30",
+   "weekday": "Tue",
+   "location": "Primary packaging line 3",
+   "status": "Pending"
+  },
+  {
+   "name": "Mayar WAEL",
+   "email": "mayar.wael@servier.com",
+   "manager": "mohamed.marasy@servier.com",
+   "dept": "Quality Control",
+   "date": "2027-04-01",
+   "weekday": "Thu",
+   "location": "Quarantine WH",
+   "status": "Pending"
+  },
+  {
+   "name": "Sawsan ABO EL KASSEM",
+   "email": "sawsan.aboelkassem@servier.com",
+   "manager": "mohamed.marasy@servier.com",
+   "dept": "Quality Control",
+   "date": "2027-04-04",
+   "weekday": "Sun",
+   "location": "Weighing",
+   "status": "Pending"
+  },
+  {
+   "name": "Samer HANNA",
+   "email": "samer.hanna@servier.com",
+   "manager": "muhammad.alhussein@servier.com",
+   "dept": "ENGINEERING",
+   "date": "2027-04-06",
+   "weekday": "Tue",
+   "location": "Chemical Store",
+   "status": "Pending"
+  },
+  {
+   "name": "Mirna FOUAD",
+   "email": "mirna.fouad@servier.com",
+   "manager": "hazem.shahin@servier.com",
+   "dept": "Supply Chain",
+   "date": "2027-04-08",
+   "weekday": "Thu",
+   "location": "Firefighting Pumps Station-Acacias",
+   "status": "Pending"
+  },
+  {
+   "name": "Mohamed EBRAHIM",
+   "email": "mohamed.maddy@servier.com",
+   "manager": "muhammad.alhussein@servier.com",
+   "dept": "ENGINEERING",
+   "date": "2027-04-11",
+   "weekday": "Sun",
+   "location": "Micro Lab site 2",
+   "status": "Pending"
+  },
+  {
+   "name": "Stephane WILLIAM",
+   "email": "stephane.william@servier.com",
+   "manager": "mohamed.zahran@servier.com",
+   "dept": "Production",
+   "date": "2027-04-12",
+   "weekday": "Mon",
+   "location": "MG2-Capsule Filling",
+   "status": "Pending"
+  },
+  {
+   "name": "Marianne CHENOUDA",
+   "email": "marianne.chenouda@servier.com",
+   "manager": "mohamed.marasy@servier.com",
+   "dept": "Quality Control",
+   "date": "2027-04-14",
+   "weekday": "Wed",
+   "location": "Secondary packaging line 1",
+   "status": "Pending"
+  },
+  {
+   "name": "Medhat LAWENDY",
+   "email": "medhat.lawendy@servier.com",
+   "manager": "muhammad.alhussein@servier.com",
+   "dept": "ENGINEERING",
+   "date": "2027-04-15",
+   "weekday": "Thu",
+   "location": "QC Lab 2",
+   "status": "Pending"
+  },
+  {
+   "name": "Nader ARMANIOS",
+   "email": "nader.armanios@servier.com",
+   "manager": "mohamed.marasy@servier.com",
+   "dept": "IT",
+   "date": "2027-04-18",
+   "weekday": "Sun",
+   "location": "Solution Preparation",
+   "status": "Pending"
+  },
+  {
+   "name": "Yasmine KHALED",
+   "email": "yasmine.khaled@servier.com",
+   "manager": "mohamed.marasy@servier.com",
+   "dept": "Quality Control",
+   "date": "2027-04-20",
+   "weekday": "Tue",
+   "location": "Maintenance HVAC Roof",
+   "status": "Pending"
+  },
+  {
+   "name": "Moamen FOUAD",
+   "email": "moamen.fouad@servier.com",
+   "manager": "muhammad.alhussein@servier.com",
+   "dept": "ENGINEERING",
+   "date": "2027-04-22",
+   "weekday": "Thu",
+   "location": "Water treatment plant",
+   "status": "Pending"
+  },
+  {
+   "name": "Kirollos NAGUIB",
+   "email": "kirollos.naguib@servier.com",
+   "manager": "mohamed.marasy@servier.com",
+   "dept": "Quality Control",
+   "date": "2027-04-25",
+   "weekday": "Sun",
+   "location": "Shipping area",
+   "status": "Pending"
+  },
+  {
+   "name": "Fady KHALAF",
+   "email": "fady.khalaf.part@servier.com",
+   "manager": "muhammad.alhussein@servier.com",
+   "dept": "ENGINEERING",
+   "date": "2027-04-27",
+   "weekday": "Tue",
+   "location": "Secondary packaging line 3",
+   "status": "Pending"
+  },
+  {
+   "name": "Abdel Rahman HAMAD",
+   "email": "abdelrahman.hamad@servier.com",
+   "manager": "muhammad.alhussein@servier.com",
+   "dept": "ENGINEERING",
+   "date": "2027-04-29",
+   "weekday": "Thu",
+   "location": "Firefighting station 2",
+   "status": "Pending"
+  },
+  {
+   "name": "Hania ABDELFATTAH",
+   "email": "hania.abdelfattah.part@servier.com",
+   "manager": "mohamed.marasy@servier.com",
+   "dept": "Quality Control",
+   "date": "2027-05-02",
+   "weekday": "Sun",
+   "location": "Sampling",
+   "status": "Pending"
+  },
+  {
+   "name": "Amr HAMDY",
+   "email": "amr.hamdy@servier.com",
+   "manager": "muhammad.alhussein@servier.com",
+   "dept": "ENGINEERING",
+   "date": "2027-05-03",
+   "weekday": "Mon",
+   "location": "GEA 1",
+   "status": "Pending"
+  },
+  {
+   "name": "Mina MEDHAT WAHBA",
+   "email": "mina.medhat-ezzat@servier.com",
+   "manager": "mohamed.zahran@servier.com",
+   "dept": "Production",
+   "date": "2027-05-05",
+   "weekday": "Wed",
+   "location": "GEA 2",
+   "status": "Pending"
+  },
+  {
+   "name": "Muhammad ALHUSSEIN",
+   "email": "muhammad.alhussein@servier.com",
+   "manager": "muhammad.alhussein@servier.com",
+   "dept": "ENGINEERING",
+   "date": "2027-05-06",
+   "weekday": "Thu",
+   "location": "Quality control lab–Les Palmiers",
+   "status": "Pending"
+  },
+  {
+   "name": "Karim FAYEZ",
+   "email": "karim.fayez@servier.com",
+   "manager": "mohamed.zahran@servier.com",
+   "dept": "Production",
+   "date": "2027-05-09",
+   "weekday": "Sun",
+   "location": "Firefighting Pumps Station -Palmiers",
+   "status": "Pending"
+  },
+  {
+   "name": "Khaled ALLAM",
+   "email": "khaled.allam@servier.com",
+   "manager": "muhammad.alhussein@servier.com",
+   "dept": "ENGINEERING",
+   "date": "2027-05-11",
+   "weekday": "Tue",
+   "location": "Manesty Coating",
+   "status": "Pending"
+  },
+  {
+   "name": "Ahmed HASSAN",
+   "email": "ahmed.hassan@servier.com",
+   "manager": "mohamed.marasy@servier.com",
+   "dept": "Quality Control",
+   "date": "2027-05-13",
+   "weekday": "Thu",
+   "location": "Utilities HVAC roof 1",
+   "status": "Pending"
+  },
+  {
+   "name": "Daniel KALALIAN",
+   "email": "daniel.kalalian@servier.com",
+   "manager": "mohamed.zahran@servier.com",
+   "dept": "IT",
+   "date": "2027-05-16",
+   "weekday": "Sun",
+   "location": "Quality control lab-Acacias",
+   "status": "Pending"
+  },
+  {
+   "name": "Ahmed HAMDEE",
+   "email": "ahmed.hamdee@servier.com",
+   "manager": "mohamed.marasy@servier.com",
+   "dept": "Quality Control",
+   "date": "2027-05-18",
+   "weekday": "Tue",
+   "location": "Spare parts WH Engineering",
+   "status": "Pending"
+  },
+  {
+   "name": "Mohammed BASYOUNI",
+   "email": "mohamed.basyouni@servier.com",
+   "manager": "muhammad.alhussein@servier.com",
+   "dept": "ENGINEERING",
+   "date": "2027-05-20",
+   "weekday": "Thu",
+   "location": "GEA 1 suite Granulation, Fluid Bed drier & Miller",
+   "status": "Pending"
+  },
+  {
+   "name": "Amr SAMIR",
+   "email": "amr.samir@servier.com",
+   "manager": "muhammad.alhussein@servier.com",
+   "dept": "ENGINEERING",
+   "date": "2027-05-23",
+   "weekday": "Sun",
+   "location": "Secondary packaging line 5",
+   "status": "Pending"
+  },
+  {
+   "name": "Esraa Elsayed",
+   "email": "esraa.elsayed@servier.com",
+   "manager": "mohamed.marasy@servier.com",
+   "dept": "Quality Control",
+   "date": "2027-05-24",
+   "weekday": "Mon",
+   "location": "Solar Energy station",
+   "status": "Pending"
+  },
+  {
+   "name": "Ahmed HAMDY",
+   "email": "ahmed.hamdy@servier.com",
+   "manager": "muhammad.alhussein@servier.com",
+   "dept": "ENGINEERING",
+   "date": "2027-05-26",
+   "weekday": "Wed",
+   "location": "Workers locker room site 2",
+   "status": "Pending"
+  },
+  {
+   "name": "Mohamed ZAHRAN",
+   "email": "mohamed.zahran@servier.com",
+   "manager": "mohamed.zahran@servier.com",
+   "dept": "Production",
+   "date": "2027-05-27",
+   "weekday": "Thu",
+   "location": "Quarantine WH",
+   "status": "Pending"
+  },
+  {
+   "name": "Hamdy ABDEL FATTAH",
+   "email": "hamdy.abdelfattah@servier.com",
+   "manager": "muhammad.alhussein@servier.com",
+   "dept": "ENGINEERING",
+   "date": "2027-05-30",
+   "weekday": "Sun",
+   "location": "Fette 2",
+   "status": "Pending"
+  },
+  {
+   "name": "Mirette BOTROS",
+   "email": "mirette.botros@servier.com",
+   "manager": "mohamed.marasy@servier.com",
+   "dept": "Quality Control",
+   "date": "2027-06-01",
+   "weekday": "Tue",
+   "location": "Utilities HVAC Roof",
+   "status": "Pending"
+  },
+  {
+   "name": "Fady GINDY",
+   "email": "fady.gindy@servier.com",
+   "manager": "hazem.shahin@servier.com",
+   "dept": "Supply Chain",
+   "date": "2027-06-03",
+   "weekday": "Thu",
+   "location": "Boiler house",
+   "status": "Pending"
+  },
+  {
+   "name": "Yassin MOHAMED",
+   "email": "yassin.mohamed@servier.com",
+   "manager": "muhammad.alhussein@servier.com",
+   "dept": "Quality Control",
+   "date": "2027-06-06",
+   "weekday": "Sun",
+   "location": "waste water treatment plant",
+   "status": "Pending"
+  },
+  {
+   "name": "Mohamed RAMADAN",
+   "email": "mohamed.ramadan@servier.com",
+   "manager": "muhammad.alhussein@servier.com",
+   "dept": "ENGINEERING",
+   "date": "2027-06-08",
+   "weekday": "Tue",
+   "location": "Secondary packaging line 4",
+   "status": "Pending"
+  },
+  {
+   "name": "Phelopateer ATTEYA",
+   "email": "phelopateer.atteya@servier.com",
+   "manager": "mohamed.zahran@servier.com",
+   "dept": "Production",
+   "date": "2027-06-10",
+   "weekday": "Thu",
+   "location": "Quality Lab site 2",
+   "status": "Pending"
+  },
+  {
+   "name": "Samer HANNA",
+   "email": "samer.hanna@servier.com",
+   "manager": "muhammad.alhussein@servier.com",
+   "dept": "ENGINEERING",
+   "date": "2027-06-13",
+   "weekday": "Sun",
+   "location": "Firefighting Pumps Station-Acacias",
+   "status": "Pending"
+  },
+  {
+   "name": "Clara AZIZ",
+   "email": "clara.aziz.part@servier.com",
+   "manager": "mohamed.marasy@servier.com",
+   "dept": "Quality Control",
+   "date": "2027-06-14",
+   "weekday": "Mon",
+   "location": "IMA Coating",
+   "status": "Pending"
+  },
+  {
+   "name": "Hany GERGIS",
+   "email": "hany.gergis.part@servier.com",
+   "manager": "mohamed.zahran@servier.com",
+   "dept": "IT",
+   "date": "2027-06-16",
+   "weekday": "Wed",
+   "location": "Quality Archive site 2",
+   "status": "Pending"
+  },
+  {
+   "name": "Medhat LAWENDY",
+   "email": "medhat.lawendy@servier.com",
+   "manager": "muhammad.alhussein@servier.com",
+   "dept": "ENGINEERING",
+   "date": "2027-06-17",
+   "weekday": "Thu",
+   "location": "Weighing process in warehouse",
+   "status": "Pending"
+  },
+  {
+   "name": "Sara ELSAYED",
+   "email": "sara.elsayed@servier.com",
+   "manager": "mohamed.marasy@servier.com",
+   "dept": "Quality Control",
+   "date": "2027-06-20",
+   "weekday": "Sun",
+   "location": "Secondary packaging line 3",
+   "status": "Pending"
+  },
+  {
+   "name": "Ali SAYED",
+   "email": "ali.sayed@servier.com",
+   "manager": "muhammad.alhussein@servier.com",
+   "dept": "ENGINEERING",
+   "date": "2027-06-22",
+   "weekday": "Tue",
+   "location": "Micro Lab site 2",
+   "status": "Pending"
+  },
+  {
+   "name": "Stephane WILLIAM",
+   "email": "stephane.william@servier.com",
+   "manager": "mohamed.zahran@servier.com",
+   "dept": "Production",
+   "date": "2027-06-24",
+   "weekday": "Thu",
+   "location": "Flammable store site 2",
+   "status": "Pending"
+  },
+  {
+   "name": "Abdalla NAGY",
+   "email": "abdalla.mohamed@servier.com",
+   "manager": "mohamed.marasy@servier.com",
+   "dept": "Quality Control",
+   "date": "2027-06-27",
+   "weekday": "Sun",
+   "location": "GEA 2",
+   "status": "Pending"
+  },
+  {
+   "name": "Ahmed ZAKY",
+   "email": "ahmed.zaky@servier.com",
+   "manager": "mohamed.marasy@servier.com",
+   "dept": "IT",
+   "date": "2027-06-29",
+   "weekday": "Tue",
+   "location": "Sampling",
+   "status": "Pending"
+  },
+  {
+   "name": "Moamen FOUAD",
+   "email": "moamen.fouad@servier.com",
+   "manager": "muhammad.alhussein@servier.com",
+   "dept": "ENGINEERING",
+   "date": "2027-07-01",
+   "weekday": "Thu",
+   "location": "Acacia Hazwaste Area",
+   "status": "Pending"
+  },
+  {
+   "name": "Fady KHALAF",
+   "email": "fady.khalaf.part@servier.com",
+   "manager": "muhammad.alhussein@servier.com",
+   "dept": "ENGINEERING",
+   "date": "2027-07-04",
+   "weekday": "Sun",
+   "location": "Bohle Blending",
+   "status": "Pending"
+  },
+  {
+   "name": "Mina MEDHAT WAHBA",
+   "email": "mina.medhat-ezzat@servier.com",
+   "manager": "mohamed.zahran@servier.com",
+   "dept": "Production",
+   "date": "2027-07-05",
+   "weekday": "Mon",
+   "location": "Water treatment plant",
+   "status": "Pending"
+  },
+  {
+   "name": "Bassem YOUSSEF",
+   "email": "bassem.youssef@servier.com",
+   "manager": "mohamed.marasy@servier.com",
+   "dept": "Quality Control",
+   "date": "2027-07-07",
+   "weekday": "Wed",
+   "location": "Washing & Dispensing of Alcohol",
+   "status": "Pending"
+  },
+  {
+   "name": "Abdel Rahman HAMAD",
+   "email": "abdelrahman.hamad@servier.com",
+   "manager": "muhammad.alhussein@servier.com",
+   "dept": "ENGINEERING",
+   "date": "2027-07-08",
+   "weekday": "Thu",
+   "location": "Shipping area",
+   "status": "Pending"
+  },
+  {
+   "name": "Alhassan GOHAR",
+   "email": "alhassan.gohar@servier.com",
+   "manager": "hazem.shahin@servier.com",
+   "dept": "Supply Chain",
+   "date": "2027-07-11",
+   "weekday": "Sun",
+   "location": "Packaging washing room",
+   "status": "Pending"
+  },
+  {
+   "name": "Karen Hani",
+   "email": "karen.hani@servier.com",
+   "manager": "mohamed.marasy@servier.com",
+   "dept": "Quality Control",
+   "date": "2027-07-13",
+   "weekday": "Tue",
+   "location": "Fette 3",
+   "status": "Pending"
+  },
+  {
+   "name": "Amr HAMDY",
+   "email": "amr.hamdy@servier.com",
+   "manager": "muhammad.alhussein@servier.com",
+   "dept": "ENGINEERING",
+   "date": "2027-07-15",
+   "weekday": "Thu",
+   "location": "Main store",
+   "status": "Pending"
+  },
+  {
+   "name": "Mohamed MARASY",
+   "email": "mohamed.marasy@servier.com",
+   "manager": "mohamed.marasy@servier.com",
+   "dept": "Quality Control",
+   "date": "2027-07-18",
+   "weekday": "Sun",
+   "location": "Compressors & electrical distribution room",
+   "status": "Pending"
+  },
+  {
+   "name": "Mohamed EBRAHIM",
+   "email": "mohamed.maddy@servier.com",
+   "manager": "muhammad.alhussein@servier.com",
+   "dept": "ENGINEERING",
+   "date": "2027-07-19",
+   "weekday": "Mon",
+   "location": "Technical Area 1",
+   "status": "Pending"
+  },
+  {
+   "name": "Karim FAYEZ",
+   "email": "karim.fayez@servier.com",
+   "manager": "mohamed.zahran@servier.com",
+   "dept": "Production",
+   "date": "2027-07-21",
+   "weekday": "Wed",
+   "location": "Spare parts WH Engineering",
+   "status": "Pending"
+  },
+  {
+   "name": "Khaled ALLAM",
+   "email": "khaled.allam@servier.com",
+   "manager": "muhammad.alhussein@servier.com",
+   "dept": "ENGINEERING",
+   "date": "2027-07-22",
+   "weekday": "Thu",
+   "location": "GEA 1 suite Granulation, Fluid Bed drier & Miller",
+   "status": "Pending"
+  },
+  {
+   "name": "Hazem SHAHIN",
+   "email": "hazem.shahin@servier.com",
+   "manager": "hazem.shahin@servier.com",
+   "dept": "Supply Chain",
+   "date": "2027-07-25",
+   "weekday": "Sun",
+   "location": "Manesty Coating",
+   "status": "Pending"
+  },
+  {
+   "name": "Mohammed BASYOUNI",
+   "email": "mohamed.basyouni@servier.com",
+   "manager": "muhammad.alhussein@servier.com",
+   "dept": "ENGINEERING",
+   "date": "2027-07-27",
+   "weekday": "Tue",
+   "location": "GEA 1",
+   "status": "Pending"
+  },
+  {
+   "name": "Mina",
+   "email": "mina.malak.part@servier.com",
+   "manager": "mohamed.marasy@servier.com",
+   "dept": "Quality Control",
+   "date": "2027-07-29",
+   "weekday": "Thu",
+   "location": "Maintenance HVAC Roof",
+   "status": "Pending"
+  },
+  {
+   "name": "Mohamed ZAHRAN",
+   "email": "mohamed.zahran@servier.com",
+   "manager": "mohamed.zahran@servier.com",
+   "dept": "Production",
+   "date": "2027-08-01",
+   "weekday": "Sun",
+   "location": "Chemical Store",
+   "status": "Pending"
+  },
+  {
+   "name": "Aya AKL",
+   "email": "aya.akl@servier.com",
+   "manager": "mohamed.marasy@servier.com",
+   "dept": "Quality Control",
+   "date": "2027-08-03",
+   "weekday": "Tue",
+   "location": "Boiler room",
+   "status": "Pending"
+  },
+  {
+   "name": "Ahmed HAMDY",
+   "email": "ahmed.hamdy@servier.com",
+   "manager": "muhammad.alhussein@servier.com",
+   "dept": "ENGINEERING",
+   "date": "2027-08-05",
+   "weekday": "Thu",
+   "location": "Hazwaste area site 2",
+   "status": "Pending"
+  },
+  {
+   "name": "Jessy GEORGES",
+   "email": "jessy.georges@servier.com",
+   "manager": "mohamed.marasy@servier.com",
+   "dept": "Quality Control",
+   "date": "2027-08-08",
+   "weekday": "Sun",
+   "location": "Firefighting Pumps Station -Palmiers",
+   "status": "Pending"
+  },
+  {
+   "name": "Amr SAMIR",
+   "email": "amr.samir@servier.com",
+   "manager": "muhammad.alhussein@servier.com",
+   "dept": "ENGINEERING",
+   "date": "2027-08-09",
+   "weekday": "Mon",
+   "location": "Firefighting station 2",
+   "status": "Pending"
+  },
+  {
+   "name": "Muhammad ALHUSSEIN",
+   "email": "muhammad.alhussein@servier.com",
+   "manager": "muhammad.alhussein@servier.com",
+   "dept": "ENGINEERING",
+   "date": "2027-08-11",
+   "weekday": "Wed",
+   "location": "Secondary packaging line 2",
+   "status": "Pending"
+  },
+  {
+   "name": "Phelopateer ATTEYA",
+   "email": "phelopateer.atteya@servier.com",
+   "manager": "mohamed.zahran@servier.com",
+   "dept": "Production",
+   "date": "2027-08-12",
+   "weekday": "Thu",
+   "location": "Quality control lab-Acacias",
+   "status": "Pending"
+  },
+  {
+   "name": "Abanoub MASRY",
+   "email": "abanoub.masry@servier.com",
+   "manager": "hazem.shahin@servier.com",
+   "dept": "Supply Chain",
+   "date": "2027-08-15",
+   "weekday": "Sun",
+   "location": "Primary packaging line 4",
+   "status": "Pending"
+  },
+  {
+   "name": "Mayar WAEL",
+   "email": "mayar.wael@servier.com",
+   "manager": "mohamed.marasy@servier.com",
+   "dept": "Quality Control",
+   "date": "2027-08-17",
+   "weekday": "Tue",
+   "location": "Solar Energy station",
+   "status": "Pending"
+  },
+  {
+   "name": "Mohamed RAMADAN",
+   "email": "mohamed.ramadan@servier.com",
+   "manager": "muhammad.alhussein@servier.com",
+   "dept": "ENGINEERING",
+   "date": "2027-08-19",
+   "weekday": "Thu",
+   "location": "MG2-Capsule Filling",
+   "status": "Pending"
+  },
+  {
+   "name": "Mirna FOUAD",
+   "email": "mirna.fouad@servier.com",
+   "manager": "hazem.shahin@servier.com",
+   "dept": "Supply Chain",
+   "date": "2027-08-22",
+   "weekday": "Sun",
+   "location": "Quality control lab–Les Palmiers",
+   "status": "Pending"
+  },
+  {
+   "name": "Medhat LAWENDY",
+   "email": "medhat.lawendy@servier.com",
+   "manager": "muhammad.alhussein@servier.com",
+   "dept": "ENGINEERING",
+   "date": "2027-08-24",
+   "weekday": "Tue",
+   "location": "Quarantine WH",
+   "status": "Pending"
+  },
+  {
+   "name": "Sawsan ABO EL KASSEM",
+   "email": "sawsan.aboelkassem@servier.com",
+   "manager": "mohamed.marasy@servier.com",
+   "dept": "Quality Control",
+   "date": "2027-08-26",
+   "weekday": "Thu",
+   "location": "Primary packaging line 3",
+   "status": "Pending"
+  },
+  {
+   "name": "Stephane WILLIAM",
+   "email": "stephane.william@servier.com",
+   "manager": "mohamed.zahran@servier.com",
+   "dept": "Production",
+   "date": "2027-08-29",
+   "weekday": "Sun",
+   "location": "Utilities HVAC roof 1",
+   "status": "Pending"
+  },
+  {
+   "name": "Marianne CHENOUDA",
+   "email": "marianne.chenouda@servier.com",
+   "manager": "mohamed.marasy@servier.com",
+   "dept": "Quality Control",
+   "date": "2027-08-30",
+   "weekday": "Mon",
+   "location": "Fette 3",
+   "status": "Pending"
+  },
+  {
+   "name": "Samer HANNA",
+   "email": "samer.hanna@servier.com",
+   "manager": "muhammad.alhussein@servier.com",
+   "dept": "ENGINEERING",
+   "date": "2027-09-01",
+   "weekday": "Wed",
+   "location": "Secondary packaging line 1",
+   "status": "Pending"
+  },
+  {
+   "name": "Hamdy ABDEL FATTAH",
+   "email": "hamdy.abdelfattah@servier.com",
+   "manager": "muhammad.alhussein@servier.com",
+   "dept": "ENGINEERING",
+   "date": "2027-09-02",
+   "weekday": "Thu",
+   "location": "Solution Preparation",
+   "status": "Pending"
+  },
+  {
+   "name": "Mina MEDHAT WAHBA",
+   "email": "mina.medhat-ezzat@servier.com",
+   "manager": "mohamed.zahran@servier.com",
+   "dept": "Production",
+   "date": "2027-09-05",
+   "weekday": "Sun",
+   "location": "Fette 2",
+   "status": "Pending"
+  },
+  {
+   "name": "Moamen FOUAD",
+   "email": "moamen.fouad@servier.com",
+   "manager": "muhammad.alhussein@servier.com",
+   "dept": "ENGINEERING",
+   "date": "2027-09-07",
+   "weekday": "Tue",
+   "location": "Secondary packaging line 5",
+   "status": "Pending"
+  },
+  {
+   "name": "Nader ARMANIOS",
+   "email": "nader.armanios@servier.com",
+   "manager": "mohamed.marasy@servier.com",
+   "dept": "IT",
+   "date": "2027-09-09",
+   "weekday": "Thu",
+   "location": "Boiler house",
+   "status": "Pending"
+  }
+ ],
+ "location_rules": {
+  "Acacia Hazwaste Area": {
+   "restricted_depts": [],
+   "review_note": "Hazwaste yard – not treated as warehouse"
+  },
+  "Bohle Blending": {
+   "restricted_depts": [],
+   "review_note": ""
+  },
+  "Boiler house": {
+   "restricted_depts": [
+    "ENGINEERING"
+   ],
+   "review_note": ""
+  },
+  "Boiler room": {
+   "restricted_depts": [
+    "ENGINEERING"
+   ],
+   "review_note": ""
+  },
+  "Chemical Store": {
+   "restricted_depts": [
+    "Supply Chain"
+   ],
+   "review_note": ""
+  },
+  "Compressors & electrical distribution room": {
+   "restricted_depts": [
+    "ENGINEERING"
+   ],
+   "review_note": ""
+  },
+  "Fette 2": {
+   "restricted_depts": [],
+   "review_note": ""
+  },
+  "Fette 3": {
+   "restricted_depts": [],
+   "review_note": ""
+  },
+  "Firefighting Pumps Station -Palmiers": {
+   "restricted_depts": [],
+   "review_note": "Fire pump station – Engineering vs HSE ownership unclear"
+  },
+  "Firefighting Pumps Station-Acacias": {
+   "restricted_depts": [],
+   "review_note": "Fire pump station – Engineering vs HSE ownership unclear"
+  },
+  "Firefighting station 2": {
+   "restricted_depts": [],
+   "review_note": "Fire station – Engineering vs HSE ownership unclear"
+  },
+  "Flammable store site 2": {
+   "restricted_depts": [
+    "Supply Chain"
+   ],
+   "review_note": ""
+  },
+  "GEA 1": {
+   "restricted_depts": [],
+   "review_note": ""
+  },
+  "GEA 1 suite Granulation, Fluid Bed drier & Miller": {
+   "restricted_depts": [],
+   "review_note": ""
+  },
+  "GEA 2": {
+   "restricted_depts": [],
+   "review_note": ""
+  },
+  "Hazwaste area site 2": {
+   "restricted_depts": [],
+   "review_note": "Hazwaste yard – not treated as warehouse"
+  },
+  "IMA Coating": {
+   "restricted_depts": [],
+   "review_note": ""
+  },
+  "Main store": {
+   "restricted_depts": [
+    "Supply Chain"
+   ],
+   "review_note": ""
+  },
+  "Maintenance HVAC Roof": {
+   "restricted_depts": [
+    "ENGINEERING"
+   ],
+   "review_note": ""
+  },
+  "Manesty Coating": {
+   "restricted_depts": [],
+   "review_note": ""
+  },
+  "MG2-Capsule Filling": {
+   "restricted_depts": [],
+   "review_note": ""
+  },
+  "Micro Lab site 2": {
+   "restricted_depts": [
+    "Quality Control"
+   ],
+   "review_note": ""
+  },
+  "Packaging washing room": {
+   "restricted_depts": [],
+   "review_note": ""
+  },
+  "Primary packaging line 3": {
+   "restricted_depts": [],
+   "review_note": ""
+  },
+  "Primary packaging line 4": {
+   "restricted_depts": [],
+   "review_note": ""
+  },
+  "QC Lab 2": {
+   "restricted_depts": [
+    "Quality Control"
+   ],
+   "review_note": ""
+  },
+  "Quality Archive site 2": {
+   "restricted_depts": [],
+   "review_note": "Archive – QA/QC vs documentation unclear"
+  },
+  "Quality control lab-Acacias": {
+   "restricted_depts": [
+    "Quality Control"
+   ],
+   "review_note": ""
+  },
+  "Quality control lab–Les Palmiers": {
+   "restricted_depts": [
+    "Quality Control"
+   ],
+   "review_note": ""
+  },
+  "Quality Lab site 2": {
+   "restricted_depts": [
+    "Quality Control"
+   ],
+   "review_note": ""
+  },
+  "Quarantine WH": {
+   "restricted_depts": [
+    "Supply Chain"
+   ],
+   "review_note": ""
+  },
+  "Sampling": {
+   "restricted_depts": [],
+   "review_note": "Sampling – QC or Supply Chain ownership unclear"
+  },
+  "Secondary packaging line 1": {
+   "restricted_depts": [],
+   "review_note": ""
+  },
+  "Secondary packaging line 2": {
+   "restricted_depts": [],
+   "review_note": ""
+  },
+  "Secondary packaging line 3": {
+   "restricted_depts": [],
+   "review_note": ""
+  },
+  "Secondary packaging line 4": {
+   "restricted_depts": [],
+   "review_note": ""
+  },
+  "Secondary packaging line 5": {
+   "restricted_depts": [],
+   "review_note": ""
+  },
+  "Shipping area": {
+   "restricted_depts": [
+    "Supply Chain"
+   ],
+   "review_note": ""
+  },
+  "Solar Energy station": {
+   "restricted_depts": [
+    "ENGINEERING"
+   ],
+   "review_note": ""
+  },
+  "Solution Preparation": {
+   "restricted_depts": [],
+   "review_note": "Solution prep – QC lab or Production unclear"
+  },
+  "Spare parts WH Engineering": {
+   "restricted_depts": [
+    "ENGINEERING",
+    "Supply Chain"
+   ],
+   "review_note": ""
+  },
+  "Technical Area 1": {
+   "restricted_depts": [],
+   "review_note": "Technical area – owner unclear"
+  },
+  "Utilities HVAC Roof": {
+   "restricted_depts": [
+    "ENGINEERING"
+   ],
+   "review_note": ""
+  },
+  "Utilities HVAC roof 1": {
+   "restricted_depts": [
+    "ENGINEERING"
+   ],
+   "review_note": ""
+  },
+  "Washing & Dispensing of Alcohol": {
+   "restricted_depts": [],
+   "review_note": "Dispensing area – owner unclear"
+  },
+  "waste water treatment plant": {
+   "restricted_depts": [],
+   "review_note": "Utility plant – Engineering vs HSE ownership unclear"
+  },
+  "Water treatment plant": {
+   "restricted_depts": [],
+   "review_note": "Utility plant – Engineering vs HSE ownership unclear"
+  },
+  "Weighing": {
+   "restricted_depts": [],
+   "review_note": "Weighing/dispensing – Production or warehouse unclear"
+  },
+  "Weighing process in warehouse": {
+   "restricted_depts": [
+    "Supply Chain"
+   ],
+   "review_note": ""
+  },
+  "Workers locker room site 2": {
+   "restricted_depts": [],
+   "review_note": ""
+  }
+ }
+}
